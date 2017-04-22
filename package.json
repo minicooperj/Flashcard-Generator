@@ -4,7 +4,7 @@
   "description": "FlashCard Generator Package",
   "main": "BasicCard.js",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "0.0.1-security",
     "inquirer": "^3.0.6"
   },
   "devDependencies": {},
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/minicooperj/Flashcard-Generator.git"
   },
-  "author": "",
+  "author": "CJC",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/minicooperj/Flashcard-Generator/issues"
